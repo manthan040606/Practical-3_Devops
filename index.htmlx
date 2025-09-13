@@ -1,0 +1,23 @@
+
+ <!doctype html>
+ <html lang="en">
+ <head>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Bhadaliya Manthan — Portfolio</title>
+ <link rel="stylesheet" href="css/styles.css">
+ </head>
+ <body>
+ <header>
+ <h1>Bhadaliya Manthan</h1>
+ <p>Student • Developer • Designer</p>
+ </header>
+ <main>
+ <h2>Projects</h2>
+ <ul>
+ <li>Project 1 — Description</li>
+ </ul>
+ </main>
+ <script src="js/main.js"></script>
+ </body>
+</html>
